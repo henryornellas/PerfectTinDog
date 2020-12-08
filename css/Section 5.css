@@ -1,0 +1,31 @@
+/*********************** Call to Action */
+#cta {
+  background-image: linear-gradient(to bottom right, #ff4c68, #fc0027);
+  text-align: center;
+  padding: 7% 10% 9%;
+}
+
+.cta-h3 {
+  font-size: 3.5rem;
+  color: white;
+  font-weight: 900;
+  margin-bottom: 6.5%;
+}
+
+.last-btn {
+  margin: 0 1.5%;
+}
+
+/************************* Footer */
+#footer {
+  text-align: center;
+  padding: 10% 5%;
+}
+
+.final-icon {
+  margin: 0 1.5% 3%;
+}
+
+.last-p {
+  margin: 0;
+}

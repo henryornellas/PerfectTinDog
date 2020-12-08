@@ -1,0 +1,32 @@
+/********************* General **************************/
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+.carousel-inner {
+    padding: 5.5% 15%;
+}
+/********************* Section 3 Main Text **************/
+h2 {
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+/********************** Testimonial Images *******************/
+.testimonial-image {
+  width: 12%;
+  border-radius: 100%;
+  margin: 4%;
+}
+/*********************** Press ****************************/
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 1%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}

@@ -1,0 +1,40 @@
+/********************* General ************************/
+#features {
+  padding: 9% 13%;
+  position: relative;
+  background-color: white;
+}
+
+.features-box {
+  text-align: center;
+}
+/********************** Emojis ***************************/
+.emoji {
+  color: #ef8172;
+  margin-bottom: 7%;
+}
+
+.emoji:hover {
+  color: #ff4c68;
+}
+/********************** Section 2 Main Text ***************/
+h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+/*********************** Section 2 Paragraph **************/
+p {
+  color: #8f8f8f;
+  padding: 0 12%;
+  font-weight: 500;
+}
+
+@media (max-width: 1028px) {
+  .main-img {
+    position: static;
+    transform: rotate(0);
+  }
+  #title {
+    text-align: center;
+  }
+}

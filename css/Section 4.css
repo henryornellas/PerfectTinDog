@@ -1,0 +1,21 @@
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.row {
+  margin:0;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.header-4 {
+  background-color: #ebebeb;
+  padding: 4% 5% 6%;
+}
+
+h2 {
+  font-weight: 700;
+}
